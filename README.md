@@ -4,7 +4,5 @@ The application is used for signing up and signing in based on shared preference
 
 This is the display gif of my game running on the Genymotion virtual devices:
 
-该游戏在虚拟机上的运行效果如下所示：
-
 ![Login-application](display/login.gif)
 
